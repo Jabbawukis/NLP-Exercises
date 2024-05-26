@@ -1,0 +1,17 @@
+rnn.weight_ih_l0
+# weight mapping the input element ot the hidden state
+1 -1
+0 1
+
+rnn.weight_hh_l0
+# weight mapping the previous hidden step to the next one
+1 -1
+-1 1
+
+classifier.weight
+# weight mapping the final hidden state to the predicted label
+-1 -1
+
+classifier.bias
+# bias of the linear layer mapping the final hidden state to the predicted label
+0
