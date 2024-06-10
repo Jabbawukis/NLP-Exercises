@@ -1,0 +1,15 @@
+Configuration:
+- seed: 0
+- device: cuda:0
+- dataset: motivational_quotes
+- character_level: True
+- num_epochs: 50
+- embedding_size: 64
+- unk_threshold: 2
+- minibatch_size: 4
+- rnn_hidden_size: 100
+- learning_rate: 0.11791969467825231
+- num_layers: 4
+- truncate_length: 256
+- info: Jabbawukis
+- random_params: ('learning_rate',)

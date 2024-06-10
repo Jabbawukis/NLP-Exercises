@@ -1,0 +1,15 @@
+Configuration:
+- seed: 0
+- device: cuda:0
+- dataset: equations
+- character_level: True
+- num_epochs: 50
+- embedding_size: 64
+- unk_threshold: 2
+- minibatch_size: 1
+- rnn_hidden_size: 200
+- learning_rate: 0.13165951636204154
+- num_layers: 3
+- truncate_length: 256
+- info: Jabbawukis
+- random_params: ('num_layers', 'learning_rate')
