@@ -1,0 +1,6 @@
+hedgehog | greedy | 0.792616469370345
+hedgehog | sampled | 0.4624773682503822
+badger | greedy | 0.6882143697647698
+badger | sampled | 0.361622306380484
+koala | greedy | 0.7637497292400174
+koala | sampled | 0.42799694514269987
