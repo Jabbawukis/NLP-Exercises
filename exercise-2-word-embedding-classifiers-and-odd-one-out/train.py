@@ -178,11 +178,11 @@ def main(
 if __name__ == "__main__":
     # All hyperparameters
     learning_rates = [0.25]
-    max_ngrams = [1]
+    max_ngrams = [2]
     hidden_sizes = [100]
     num_epochs = [5]
     unk_thresholds = [2]
-    pretrained_word_embeddings_files = ["pretrained_embeddings/glove-wiki-gigaword-50.txt"]
+    pretrained_word_embeddings_files = [None]
 
     results = []
 
