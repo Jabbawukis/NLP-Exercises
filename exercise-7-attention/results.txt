@@ -1,0 +1,4 @@
+Task 1	attention	14.913743106707054
+Task 1	no_attention	25.328657311522488
+Task 2	attention	0.5722
+Task 2	no_attention	0.565
