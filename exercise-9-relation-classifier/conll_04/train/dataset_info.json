@@ -1,0 +1,39 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "sentence": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "relation": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "subj_start": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "subj_end": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "obj_start": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "obj_end": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "tokens": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
