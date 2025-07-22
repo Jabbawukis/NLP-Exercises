@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/frklxFXf)
 # Exercise 5
 
 This exercise contains three tasks: (1) Implement the data preprocessing and the forward pass of the language model, (2) train an LM on a small dataset and compare character vs word-level tokens, and (3) train an LM on a larger dataset comparing different batch sizes.
