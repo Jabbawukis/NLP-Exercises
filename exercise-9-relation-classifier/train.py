@@ -13,7 +13,7 @@ run = "test_6"
 
 output_dir = f"./results/{run}"
 
-wandb.login(key="18d18e60144a6995d84d064a39e7fea9aeeb6e17")
+wandb.login(key="")
 os.environ["WANDB_PROJECT"] = "relation_classifier"
 
 model = AutoModelForSequenceClassification.from_pretrained("prajjwal1/bert-small", num_labels=2)
